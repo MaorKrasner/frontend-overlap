@@ -137,17 +137,17 @@ header .cta .btn {
     color: #666;
 }
 
-footer .cta-section h2 {
+footer .sign-in-up h2 {
     font-size: 2em;
     margin: 0 0 20px 0;
 }
 
-footer .cta-section p {
+footer .sign-in-up p {
     font-size: 1.2em;
     margin: 0 0 20px 0;
 }
 
-footer .cta-section .btn {
+footer .sign-in-up .btn {
     background-color: #ff5630;
     color: white;
     padding: 10px 20px;
