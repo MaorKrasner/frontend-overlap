@@ -43,14 +43,14 @@ header nav ul li a {
     font-size: 1em;
 }
 
-header .cta {
+header .button-class {
     text-align: center;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-header .cta .btn {
+header .button-class .btn {
     background-color: #ff5630;
     color: white;
     padding: 10px 20px;
@@ -61,7 +61,7 @@ header .cta .btn {
     justify-content: flex-start;
 }
 
-.hero {
+.introduction {
     background: url('https://www.atlassian.com/dam/jcr:b7c183c5-f629-4342-bb01-562fa9655bb6/hero-illustration.svg') no-repeat center center;
     background-size: cover;
     background-color: #0052cc;
@@ -73,27 +73,27 @@ header .cta .btn {
     justify-content: center;
 }
 
-.hero .container {
+.introduction .container {
     max-width: 800px;
     margin: 0 auto;
 }
 
-.hero .hero-content {
+.introduction .introduction-content {
     text-align: center;
     color: white;
 }
 
-.hero h2 {
+.introduction h2 {
     font-size: 2.5em;
     margin: 0 0 20px 0;
 }
 
-.hero p {
+.introduction p {
     font-size: 1.2em;
     margin: 0 0 20px 0;
 }
 
-.hero .btn {
+.introduction .btn {
     background-color: black;
     color: white;
     padding: 10px 20px;
